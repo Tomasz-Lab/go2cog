@@ -1,5 +1,5 @@
-# go2cog
-Mapping Gene Ontology (GO) IDs to Clusters of Orthologous Genes (COG) categories
+## go2cog
+#Mapping Gene Ontology (GO) IDs to Clusters of Orthologous Genes (COG) categories.
 
 This tool allows mapping Go terms to one of the 26 COG categories as in NCBI database: https://www.ncbi.nlm.nih.gov/research/cog/
 
